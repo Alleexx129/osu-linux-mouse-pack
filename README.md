@@ -1,5 +1,7 @@
 # osu-linux-mouse-pack
-Here is a small linux mouse pack that is in osu's theme.
+A small collection of Linux mouse cursors themed after osu!.
 
 # Installation
-Put all the cursors inside ``/usr/share/icons`` either through ``sudo`` or whatever you want
+Place the cursor folder into ``/usr/share/icons/`` or ``~/.local/share/icons/``.
+
+    Note: You will need to use sudo or root privileges to move files into ``/usr/share/icons/``
