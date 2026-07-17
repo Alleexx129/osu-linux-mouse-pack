@@ -3,4 +3,4 @@ A small collection of Linux mouse cursors themed after osu!.
 
 # Installation
 Place the cursor folder into `/usr/share/icons/` or `~/.local/share/icons/`.
-<small>Note: You will need to use sudo or root privileges to move files into /usr/share/icons/</small>
+> **Note:** You will need to use sudo or root privileges to move files into `/usr/share/icons/`.
