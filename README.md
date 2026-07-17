@@ -1,4 +1,4 @@
-# osu-linux-mouse-pack
+# Osu Linux Mouse Pack
 A small collection of Linux mouse cursors themed after osu!.
 
 # Installation
